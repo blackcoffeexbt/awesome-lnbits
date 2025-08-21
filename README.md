@@ -62,6 +62,7 @@ Awesome extensions and projects built on LNBits.
 # Software Projects utilizing LNbits
 
 #### General
+- [LNbits MCP server for AI LLMs](https://github.com/lnbits/lnbits-mcp-server) - Use LNbits from any MCP compatible LLM AI client 
 - [Alby](https://github.com/getAlby/lightning-browser-extension) - A versatile browser extension for #Bitcoin and #LightningNetwork which support LNBits wallets.
 - [BTC Origin Stories](https://btcoriginstories.com/) - Split Lightning payment project whicht provides a glimpse into the future of splitting royalties.
 - [ChargedMail](https://github.com/shocknet/chargedMail) - Paywall anti-spam for emails
